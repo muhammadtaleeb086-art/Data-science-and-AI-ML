@@ -1,0 +1,4 @@
+2026-02-24 15:00:24-ArthmethicApp- DEBUG - Adding 10 + 15 = 25
+2026-02-24 15:00:24-ArthmethicApp- DEBUG - Subtracting 15 - 10 = 5
+2026-02-24 15:00:24-ArthmethicApp- DEBUG - Multiplying 10 * 20 = 200
+2026-02-24 15:00:24-ArthmethicApp- ERROR - Division by zero error
